@@ -159,3 +159,89 @@ label {
   color: #ffc107;
   font-size: 1.2rem;
 }
+
+/* Mobile Responsive Design */
+
+/* Medium to Small Devices (Tablets and Below) */
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+    border-radius: 16px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  #chapterSelect {
+    font-size: 1rem;
+    padding: 8px;
+  }
+
+  #questionBox {
+    font-size: 1.1rem;
+    padding: 16px;
+  }
+
+  #optionsList li {
+    font-size: 1rem;
+    padding: 10px;
+  }
+
+  #nextBtn {
+    width: 100%;
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  #timerBox {
+    font-size: 1.1rem;
+    margin-top: 15px;
+  }
+
+  #progressBox {
+    font-size: 1rem;
+  }
+
+  #resultBox {
+    padding: 15px;
+  }
+}
+
+/* Small Devices (Mobile Phones) */
+@media (max-width: 480px) {
+  .container {
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  #chapterSelect {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  #questionBox {
+    font-size: 1rem;
+    padding: 14px;
+  }
+
+  #optionsList li {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  #timerBox {
+    font-size: 1rem;
+  }
+
+  #progressBox {
+    font-size: 0.9rem;
+  }
+
+  #resultBox h2 {
+    font-size: 1.2rem;
+  }
+}
