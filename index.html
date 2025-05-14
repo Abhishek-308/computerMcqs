@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Computer Quiz - API Version</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Computer Quiz</h1>
+
+    <label for="chapterSelect">Select Chapter:</label>
+    <select id="chapterSelect">
+      <option value="">--Choose Chapter--</option>
+      <option value="fundamentals">Fundamentals</option>
+      <option value="operating_system">Operating System</option>
+      <option value="wordProcessing">Word Processing</option>
+      <option value="spreadsheet">Spreadsheet</option>
+      <option value="presentation">Presentation</option>
+      <option value="database">Database</option>
+      <option value="web">Web Page Designing</option>
+      <option value="network">Computer Network</option>
+      <option value="legislation">IT Legislation</option>
+      <option value="eta">ETA</option>
+    </select>
+
+    <!-- Quiz Box with Timer -->
+    <div id="quizBox" class="hidden">
+      <div id="questionBox" class="fade-in"></div>
+      <ul id="optionsList"></ul>
+      <div id="timerBox">⏱ Time Left: <span id="timer">45</span>s</div>
+    </div>
+
+    <!-- Progress Tracker -->
+    <div id="progressBox" class="hidden">
+      <p><strong>Question:</strong> <span id="currentQuestion">0</span> / <span id="totalQuestions">0</span></p>
+    </div>
+
+    <!-- Quiz Summary -->
+    <div id="resultBox" class="hidden">
+      <h2>Quiz Summary</h2>
+      <ul id="summaryList"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

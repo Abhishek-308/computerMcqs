@@ -1,0 +1,207 @@
+[
+  {
+    "question": "Which of the following is used to create presentations?",
+    "options": ["Microsoft Word", "Microsoft PowerPoint", "Excel", "Notepad"],
+    "answer": "Microsoft PowerPoint"
+  },
+  {
+    "question": "Which of the following is the default slide layout in PowerPoint?",
+    "options": ["Title Slide", "Title and Content", "Blank", "Two Content"],
+    "answer": "Title Slide"
+  },
+  {
+    "question": "What is the shortcut key to start a slideshow in PowerPoint?",
+    "options": ["F5", "Ctrl+S", "Ctrl+F5", "Shift+S"],
+    "answer": "F5"
+  },
+  {
+    "question": "How do you add a new slide in PowerPoint?",
+    "options": ["Ctrl+N", "Ctrl+M", "Ctrl+P", "Ctrl+S"],
+    "answer": "Ctrl+M"
+  },
+  {
+    "question": "What is the default slide transition effect in PowerPoint?",
+    "options": ["Fade", "Push", "Wipe", "None"],
+    "answer": "None"
+  },
+  {
+    "question": "Which view in PowerPoint allows you to organize the slides?",
+    "options": ["Slide Show View", "Slide Sorter View", "Notes View", "Normal View"],
+    "answer": "Slide Sorter View"
+  },
+  {
+    "question": "Which of the following is NOT a type of transition effect in PowerPoint?",
+    "options": ["Fade", "Wipe", "Split", "Zoom Out"],
+    "answer": "Zoom Out"
+  },
+  {
+    "question": "How can you insert a picture into a PowerPoint slide?",
+    "options": ["Insert -> Picture", "Design -> Picture", "Insert -> Clip Art", "View -> Image"],
+    "answer": "Insert -> Picture"
+  },
+  {
+    "question": "Which of these is a valid text effect in PowerPoint?",
+    "options": ["Glow", "Shadow", "Reflection", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the purpose of the 'Master Slide' in PowerPoint?",
+    "options": ["To add background music", "To set a consistent design for all slides", "To record audio", "To add animations"],
+    "answer": "To set a consistent design for all slides"
+  },
+  {
+    "question": "What feature is used to add animations to text or objects in PowerPoint?",
+    "options": ["Slide Transitions", "Slide Show", "Animations", "Effects"],
+    "answer": "Animations"
+  },
+  {
+    "question": "Which PowerPoint feature helps you rehearse your presentation?",
+    "options": ["Rehearse Timings", "Slide Show View", "Presenter View", "Slide Master"],
+    "answer": "Rehearse Timings"
+  },
+  {
+    "question": "What is the name of the view that allows you to add speaker notes in PowerPoint?",
+    "options": ["Notes View", "Reading View", "Outline View", "Normal View"],
+    "answer": "Notes View"
+  },
+  {
+    "question": "Which tab is used to insert shapes in PowerPoint?",
+    "options": ["Home", "Insert", "Design", "Transitions"],
+    "answer": "Insert"
+  },
+  {
+    "question": "How do you change the background of a slide in PowerPoint?",
+    "options": ["Design -> Background Styles", "Insert -> Background", "Transitions -> Background", "View -> Background"],
+    "answer": "Design -> Background Styles"
+  },
+  {
+    "question": "What is the default duration of a slide transition in PowerPoint?",
+    "options": ["2 seconds", "3 seconds", "1 second", "No duration"],
+    "answer": "1 second"
+  },
+  {
+    "question": "What is the shortcut key to jump to the next slide in PowerPoint?",
+    "options": ["Spacebar", "Enter", "Shift+Tab", "Ctrl+N"],
+    "answer": "Spacebar"
+  },
+  {
+    "question": "Which of these is NOT a text animation type in PowerPoint?",
+    "options": ["Fly In", "Bounce", "Swirl", "Zoom"],
+    "answer": "Swirl"
+  },
+  {
+    "question": "How do you insert a chart in PowerPoint?",
+    "options": ["Insert -> Chart", "Insert -> Graph", "Design -> Chart", "Insert -> Table"],
+    "answer": "Insert -> Chart"
+  },
+  {
+    "question": "How do you create a hyperlink in PowerPoint?",
+    "options": ["Insert -> Hyperlink", "Home -> Link", "Design -> Link", "Insert -> Action"],
+    "answer": "Insert -> Hyperlink"
+  },
+  {
+    "question": "What is 'Presenter View' used for in PowerPoint?",
+    "options": ["To show the presentation to the audience", "To see your notes and upcoming slides", "To add animations", "To adjust the timing of slides"],
+    "answer": "To see your notes and upcoming slides"
+  },
+  {
+    "question": "How do you apply a slide layout in PowerPoint?",
+    "options": ["Design -> Layout", "Home -> Layout", "Insert -> Layout", "View -> Layout"],
+    "answer": "Home -> Layout"
+  },
+  {
+    "question": "Which of the following is used to add a video to a slide in PowerPoint?",
+    "options": ["Insert -> Video", "Design -> Video", "Animations -> Video", "Insert -> Object"],
+    "answer": "Insert -> Video"
+  },
+  {
+    "question": "How can you change the order of slides in PowerPoint?",
+    "options": ["Slide Sorter View", "Normal View", "Notes View", "Outline View"],
+    "answer": "Slide Sorter View"
+  },
+  {
+    "question": "What is the function of the 'Slide Master' in PowerPoint?",
+    "options": ["To create custom slide designs", "To insert video", "To add slide transitions", "To add audio to the presentation"],
+    "answer": "To create custom slide designs"
+  },
+  {
+    "question": "Which file extension is used for PowerPoint presentations?",
+    "options": [".ppt", ".pptx", ".docx", ".xls"],
+    "answer": ".pptx"
+  },
+  {
+    "question": "Which option allows you to create a table in PowerPoint?",
+    "options": ["Insert -> Table", "Design -> Table", "Insert -> Chart", "View -> Table"],
+    "answer": "Insert -> Table"
+  },
+  {
+    "question": "Which tab in PowerPoint contains options to set slide transition effects?",
+    "options": ["Design", "Animations", "Transitions", "View"],
+    "answer": "Transitions"
+  },
+  {
+    "question": "Which feature allows you to add audio to a slide in PowerPoint?",
+    "options": ["Insert -> Audio", "Insert -> Sound", "Insert -> Music", "Design -> Audio"],
+    "answer": "Insert -> Audio"
+  },
+  {
+    "question": "How can you add a watermark to a PowerPoint slide?",
+    "options": ["Insert -> Text Box", "Design -> Watermark", "Insert -> Picture", "View -> Background"],
+    "answer": "Insert -> Picture"
+  },
+  {
+    "question": "What is the default layout for the first slide in a new PowerPoint presentation?",
+    "options": ["Title Slide", "Title and Content", "Blank", "Two Content"],
+    "answer": "Title Slide"
+  },
+  {
+    "question": "How can you remove a slide from a PowerPoint presentation?",
+    "options": ["Select slide and press Delete", "Click on the slide and press Backspace", "Right-click and choose Remove", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which view is used to edit the content of individual slides?",
+    "options": ["Normal View", "Slide Sorter View", "Slide Show View", "Reading View"],
+    "answer": "Normal View"
+  },
+  {
+    "question": "How do you add a bullet point in PowerPoint?",
+    "options": ["Press Enter and select bullet from Home tab", "Press Shift+Enter", "Press Tab", "Press Ctrl+B"],
+    "answer": "Press Enter and select bullet from Home tab"
+  },
+  {
+    "question": "How can you add a shape to a PowerPoint slide?",
+    "options": ["Insert -> Shapes", "Design -> Shapes", "Animations -> Shapes", "Insert -> Picture"],
+    "answer": "Insert -> Shapes"
+  },
+  {
+    "question": "Which option in PowerPoint helps you to animate an object on a slide?",
+    "options": ["Animations", "Transitions", "Home", "Insert"],
+    "answer": "Animations"
+  },
+  {
+    "question": "How can you set a custom slide show in PowerPoint?",
+    "options": ["Slide Show -> Custom Slide Show", "File -> New", "Insert -> Custom Slide Show", "View -> Slide Show"],
+    "answer": "Slide Show -> Custom Slide Show"
+  },
+  {
+    "question": "Which of the following features helps you to present the slideshow continuously?",
+    "options": ["Loop Continuously", "Auto Play", "Slide Transition", "Animation"],
+    "answer": "Loop Continuously"
+  },
+  {
+    "question": "How can you add notes to a slide in PowerPoint?",
+    "options": ["Notes View", "Normal View", "Slide Show View", "Outline View"],
+    "answer": "Notes View"
+  },
+  {
+    "question": "How can you view the presentation in full screen?",
+    "options": ["F5", "Shift+F5", "Ctrl+F5", "Alt+Enter"],
+    "answer": "F5"
+  },
+  {
+    "question": "How do you hide a slide during the presentation?",
+    "options": ["Right-click on the slide and select Hide", "Select the slide and press Ctrl+H", "Select the slide and press Ctrl+M", "Click on the slide and choose Hide"],
+    "answer": "Right-click on the slide and select Hide"
+  }
+]

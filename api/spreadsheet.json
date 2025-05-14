@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What is the default file extension for a Microsoft Excel file?",
+    "options": [".xls", ".xlsx", ".docx", ".csv"],
+    "answer": ".xlsx"
+  },
+  {
+    "question": "Which of the following functions is used to sum values in Excel?",
+    "options": ["SUM", "ADD", "TOTAL", "SUMIF"],
+    "answer": "SUM"
+  },
+  {
+    "question": "What does the VLOOKUP function do?",
+    "options": ["Searches for a value in a vertical column", "Returns the sum of values", "Looks up values horizontally", "Filters data based on criteria"],
+    "answer": "Searches for a value in a vertical column"
+  },
+  {
+    "question": "Which of the following is NOT a valid Excel function?",
+    "options": ["AVERAGE", "SUM", "COUNTIF", "MULTIPLY"],
+    "answer": "MULTIPLY"
+  },
+  {
+    "question": "How do you create a chart in Excel?",
+    "options": ["Insert -> Chart", "Design -> Chart", "View -> Chart", "Data -> Chart"],
+    "answer": "Insert -> Chart"
+  },
+  {
+    "question": "What is the function of the 'Freeze Panes' option in Excel?",
+    "options": ["To lock specific rows or columns while scrolling", "To create new worksheets", "To color cells", "To sort data"],
+    "answer": "To lock specific rows or columns while scrolling"
+  },
+  {
+    "question": "Which of the following is used to sort data in Excel?",
+    "options": ["Data -> Sort", "Insert -> Sort", "Home -> Sort", "View -> Sort"],
+    "answer": "Data -> Sort"
+  },
+  {
+    "question": "What is the shortcut key for copying cells in Excel?",
+    "options": ["Ctrl+C", "Ctrl+X", "Ctrl+V", "Ctrl+Z"],
+    "answer": "Ctrl+C"
+  },
+  {
+    "question": "Which Excel function is used to count the number of cells that contain numbers?",
+    "options": ["COUNT", "COUNTA", "COUNTIF", "COUNTBLANK"],
+    "answer": "COUNT"
+  },
+  {
+    "question": "How can you apply a filter to a range of data in Excel?",
+    "options": ["Data -> Filter", "Home -> Filter", "Insert -> Filter", "View -> Filter"],
+    "answer": "Data -> Filter"
+  },
+  {
+    "question": "Which of the following can be used to change the background color of a cell?",
+    "options": ["Home -> Fill Color", "Insert -> Color", "View -> Background Color", "Data -> Color"],
+    "answer": "Home -> Fill Color"
+  },
+  {
+    "question": "What does the CONCATENATE function do in Excel?",
+    "options": ["Combines text from multiple cells", "Calculates the sum of numbers", "Finds the average", "Compares two values"],
+    "answer": "Combines text from multiple cells"
+  },
+  {
+    "question": "How do you add a new worksheet in Excel?",
+    "options": ["Click the plus icon at the bottom", "File -> New", "Insert -> New Worksheet", "View -> New Worksheet"],
+    "answer": "Click the plus icon at the bottom"
+  },
+  {
+    "question": "What is the maximum number of rows available in Excel 2016?",
+    "options": ["1048576", "100000", "10000", "1024"],
+    "answer": "1048576"
+  },
+  {
+    "question": "Which of the following is used to adjust column width in Excel?",
+    "options": ["Drag the column boundary", "Insert -> Column Width", "View -> Column Width", "Home -> Column Width"],
+    "answer": "Drag the column boundary"
+  },
+  {
+    "question": "What does the LEFT function do in Excel?",
+    "options": ["Extracts characters from the beginning of a string", "Extracts characters from the end of a string", "Converts text to uppercase", "Changes the font style"],
+    "answer": "Extracts characters from the beginning of a string"
+  },
+  {
+    "question": "What is the function of the 'SUMIF' function in Excel?",
+    "options": ["Adds values based on a condition", "Multiplies values based on a condition", "Finds the average based on a condition", "Counts values based on a condition"],
+    "answer": "Adds values based on a condition"
+  },
+  {
+    "question": "What does the HLOOKUP function do in Excel?",
+    "options": ["Searches for a value in a horizontal row", "Searches for a value in a vertical column", "Adds values", "Returns the highest value in a range"],
+    "answer": "Searches for a value in a horizontal row"
+  },
+  {
+    "question": "How do you remove duplicate values in Excel?",
+    "options": ["Data -> Remove Duplicates", "Home -> Remove Duplicates", "Insert -> Remove Duplicates", "View -> Remove Duplicates"],
+    "answer": "Data -> Remove Duplicates"
+  },
+  {
+    "question": "Which Excel function is used to calculate the average of a range of numbers?",
+    "options": ["AVERAGE", "SUM", "MEDIAN", "COUNT"],
+    "answer": "AVERAGE"
+  },
+  {
+    "question": "What is the purpose of the 'Conditional Formatting' feature in Excel?",
+    "options": ["To format cells based on their values", "To change font style", "To insert a chart", "To freeze panes"],
+    "answer": "To format cells based on their values"
+  },
+  {
+    "question": "Which of the following is used to merge two or more cells in Excel?",
+    "options": ["Home -> Merge & Center", "Insert -> Merge Cells", "View -> Merge Cells", "Data -> Merge & Center"],
+    "answer": "Home -> Merge & Center"
+  },
+  {
+    "question": "Which shortcut key is used to undo an action in Excel?",
+    "options": ["Ctrl+Z", "Ctrl+Y", "Ctrl+X", "Ctrl+C"],
+    "answer": "Ctrl+Z"
+  },
+  {
+    "question": "What is the function of the 'IF' statement in Excel?",
+    "options": ["Performs a logical test and returns one value if true, and another if false", "Sums up a range of values", "Searches for a value in a range", "Finds the largest value in a range"],
+    "answer": "Performs a logical test and returns one value if true, and another if false"
+  },
+  {
+    "question": "What is the use of the 'Group' feature in Excel?",
+    "options": ["To organize data into subcategories", "To hide rows and columns", "To merge cells", "To filter data"],
+    "answer": "To organize data into subcategories"
+  },
+  {
+    "question": "How do you create a hyperlink in Excel?",
+    "options": ["Insert -> Hyperlink", "Home -> Link", "Data -> Hyperlink", "View -> Hyperlink"],
+    "answer": "Insert -> Hyperlink"
+  },
+  {
+    "question": "What does the 'COUNTIF' function do in Excel?",
+    "options": ["Counts the number of cells that meet a specific condition", "Counts all cells", "Adds cells based on a condition", "Finds the average based on a condition"],
+    "answer": "Counts the number of cells that meet a specific condition"
+  },
+  {
+    "question": "What is the function of the 'PivotTable' in Excel?",
+    "options": ["Summarizes data from a larger data set", "Adds a chart to the worksheet", "Performs a calculation on data", "Formats cells based on conditions"],
+    "answer": "Summarizes data from a larger data set"
+  },
+  {
+    "question": "How do you add a comment to a cell in Excel?",
+    "options": ["Right-click the cell and select 'Insert Comment'", "Home -> Add Comment", "Insert -> Comment", "Data -> Add Comment"],
+    "answer": "Right-click the cell and select 'Insert Comment'"
+  },
+  {
+    "question": "What is the purpose of the 'Text to Columns' feature in Excel?",
+    "options": ["Splits the content of a cell into separate columns", "Combines the contents of multiple cells", "Converts text into a table", "Applies conditional formatting"],
+    "answer": "Splits the content of a cell into separate columns"
+  },
+  {
+    "question": "How can you change the font size of a cell in Excel?",
+    "options": ["Home -> Font Size", "Insert -> Font Size", "View -> Font Size", "Data -> Font Size"],
+    "answer": "Home -> Font Size"
+  },
+  {
+    "question": "Which of the following functions is used to find the maximum value in a range in Excel?",
+    "options": ["MAX", "MIN", "AVERAGE", "COUNT"],
+    "answer": "MAX"
+  },
+  {
+    "question": "Which of the following is used to insert a new row in Excel?",
+    "options": ["Right-click -> Insert", "Home -> Insert", "Data -> Insert", "View -> Insert"],
+    "answer": "Right-click -> Insert"
+  },
+  {
+    "question": "How do you highlight an entire row in Excel?",
+    "options": ["Click the row number", "Click the row header", "Click any cell in the row", "Press Shift+Space"],
+    "answer": "Click the row number"
+  },
+  {
+    "question": "What is the function of the 'Flash Fill' feature in Excel?",
+    "options": ["Automatically fills in data based on patterns", "Fills cells with the same value", "Fills cells with random data", "Fills cells with formula results"],
+    "answer": "Automatically fills in data based on patterns"
+  },
+  {
+    "question": "What is the shortcut key to insert the current date in Excel?",
+    "options": ["Ctrl+; (semicolon)", "Ctrl+Shift+D", "Ctrl+Shift+; (semicolon)", "Alt+Date"],
+    "answer": "Ctrl+; (semicolon)"
+  },
+  {
+    "question": "Which Excel function can be used to find the median of a range?",
+    "options": ["MEDIAN", "AVERAGE", "MODE", "RANGE"],
+    "answer": "MEDIAN"
+  },
+  {
+    "question": "Which of these is NOT a type of chart in Excel?",
+    "options": ["Bar Chart", "Pie Chart", "Line Chart", "Circle Chart"],
+    "answer": "Circle Chart"
+  }
+]

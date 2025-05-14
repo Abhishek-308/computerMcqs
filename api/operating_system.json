@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is an operating system?",
+    "options": [
+      "A software that controls hardware and software resources",
+      "A hardware device",
+      "A programming language",
+      "A type of file system"
+    ],
+    "answer": "A software that controls hardware and software resources"
+  },
+  {
+    "question": "Which of the following is not an example of an operating system?",
+    "options": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What does the acronym 'OS' stand for?",
+    "options": [
+      "Operating System",
+      "Open Source",
+      "Operational System",
+      "Order Service"
+    ],
+    "answer": "Operating System"
+  },
+  {
+    "question": "Which of the following is a function of an operating system?",
+    "options": [
+      "File management",
+      "Memory management",
+      "Process management",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the primary purpose of an operating system?",
+    "options": [
+      "To manage system resources",
+      "To compile programs",
+      "To connect the internet",
+      "To provide a user interface"
+    ],
+    "answer": "To manage system resources"
+  },
+  {
+    "question": "Which of the following is a command-line interface (CLI) based operating system?",
+    "options": [
+      "MS-DOS",
+      "Windows 10",
+      "MacOS",
+      "Ubuntu"
+    ],
+    "answer": "MS-DOS"
+  },
+  {
+    "question": "What is the role of the kernel in an operating system?",
+    "options": [
+      "It is responsible for file management",
+      "It manages system hardware and software",
+      "It controls the network connections",
+      "It provides the graphical user interface"
+    ],
+    "answer": "It manages system hardware and software"
+  },
+  {
+    "question": "Which of the following operating systems is open-source?",
+    "options": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Android"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "question": "What is a multi-tasking operating system?",
+    "options": [
+      "It can run only one program at a time",
+      "It allows multiple programs to run simultaneously",
+      "It requires constant rebooting",
+      "It supports only command-line interfaces"
+    ],
+    "answer": "It allows multiple programs to run simultaneously"
+  },
+  {
+    "question": "Which of the following is an example of a real-time operating system?",
+    "options": [
+      "Windows",
+      "Linux",
+      "Android",
+      "RTOS"
+    ],
+    "answer": "RTOS"
+  },
+  {
+    "question": "What is the purpose of the file system in an operating system?",
+    "options": [
+      "To organize and store files",
+      "To connect to the internet",
+      "To execute programs",
+      "To manage RAM"
+    ],
+    "answer": "To organize and store files"
+  },
+  {
+    "question": "Which of the following operating systems uses a graphical user interface (GUI)?",
+    "options": [
+      "Windows",
+      "MacOS",
+      "Linux",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the main purpose of virtual memory?",
+    "options": [
+      "To store data on hard drives",
+      "To manage physical memory more efficiently",
+      "To increase processing speed",
+      "To monitor system performance"
+    ],
+    "answer": "To manage physical memory more efficiently"
+  },
+  {
+    "question": "Which operating system is known for its stability and security, often used for servers?",
+    "options": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Android"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "question": "What is the main function of an operating system's scheduler?",
+    "options": [
+      "To manage files",
+      "To manage CPU processes",
+      "To connect to the internet",
+      "To run background tasks"
+    ],
+    "answer": "To manage CPU processes"
+  },
+  {
+    "question": "Which of the following is the first operating system?",
+    "options": [
+      "UNIX",
+      "Windows XP",
+      "MS-DOS",
+      "MacOS"
+    ],
+    "answer": "MS-DOS"
+  },
+  {
+    "question": "Which of the following operating systems is used in mobile devices?",
+    "options": [
+      "Windows 10",
+      "Linux",
+      "Android",
+      "MacOS"
+    ],
+    "answer": "Android"
+  },
+  {
+    "question": "What is the function of an operating system's device drivers?",
+    "options": [
+      "To control hardware devices",
+      "To store files",
+      "To organize memory",
+      "To manage users"
+    ],
+    "answer": "To control hardware devices"
+  },
+  {
+    "question": "Which of the following is not a part of the operating system's user interface?",
+    "options": [
+      "Taskbar",
+      "File Explorer",
+      "Command Prompt",
+      "Processor"
+    ],
+    "answer": "Processor"
+  },
+  {
+    "question": "What is a command interpreter in an operating system?",
+    "options": [
+      "A program that manages files",
+      "A program that translates and executes commands",
+      "A program that displays the user interface",
+      "A program that stores data"
+    ],
+    "answer": "A program that translates and executes commands"
+  },
+  {
+    "question": "Which of the following is an advantage of a graphical user interface (GUI)?",
+    "options": [
+      "It is more user-friendly than a command-line interface",
+      "It uses less memory",
+      "It requires no input from the user",
+      "It is faster than a CLI"
+    ],
+    "answer": "It is more user-friendly than a command-line interface"
+  },
+  {
+    "question": "Which of the following is a core component of an operating system?",
+    "options": [
+      "File System",
+      "Browser",
+      "Text Editor",
+      "Media Player"
+    ],
+    "answer": "File System"
+  },
+  {
+    "question": "What does 'booting' refer to in operating systems?",
+    "options": [
+      "The process of starting a computer",
+      "The process of installing a program",
+      "The process of shutting down a computer",
+      "The process of updating system files"
+    ],
+    "answer": "The process of starting a computer"
+  },
+  {
+    "question": "What is the process of context switching in an operating system?",
+    "options": [
+      "Switching between different user interfaces",
+      "Switching between different running processes",
+      "Switching between different hard drives",
+      "Switching between different applications"
+    ],
+    "answer": "Switching between different running processes"
+  },
+  {
+    "question": "Which of the following operating systems is primarily used in personal computers?",
+    "options": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of an open-source operating system?",
+    "options": [
+      "Windows 10",
+      "MacOS",
+      "Ubuntu",
+      "iOS"
+    ],
+    "answer": "Ubuntu"
+  },
+  {
+    "question": "What is the purpose of a system call in an operating system?",
+    "options": [
+      "To access hardware resources",
+      "To allocate memory",
+      "To handle input and output operations",
+      "To interact with the kernel"
+    ],
+    "answer": "To interact with the kernel"
+  },
+  {
+    "question": "Which of the following is an example of a multi-user operating system?",
+    "options": [
+      "Windows",
+      "Unix",
+      "MacOS",
+      "Android"
+    ],
+    "answer": "Unix"
+  },
+  {
+    "question": "What does 'virtualization' refer to in an operating system?",
+    "options": [
+      "Running multiple operating systems on a single machine",
+      "Creating virtual hard drives",
+      "Creating virtual memory",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the primary role of a disk operating system (DOS)?",
+    "options": [
+      "To manage files on the hard drive",
+      "To manage memory",
+      "To control hardware devices",
+      "To process user inputs"
+    ],
+    "answer": "To manage files on the hard drive"
+  },
+  {
+    "question": "What does the term 'user mode' refer to in an operating system?",
+    "options": [
+      "The mode in which the user interacts with the system",
+      "The mode where the kernel operates",
+      "The mode where the system is inactive",
+      "The mode where system security is disabled"
+    ],
+    "answer": "The mode in which the user interacts with the system"
+  },
+  {
+    "question": "What is the role of the shell in an operating system?",
+    "options": [
+      "It provides a command-line interface",
+      "It manages file permissions",
+      "It controls hardware",
+      "It handles memory management"
+    ],
+    "answer": "It provides a command-line interface"
+  },
+  {
+    "question": "Which of the following is a key feature of a distributed operating system?",
+    "options": [
+      "Centralized control",
+      "Ability to connect multiple computers",
+      "Single-user access",
+      "Single-device management"
+    ],
+    "answer": "Ability to connect multiple computers"
+  },
+  {
+    "question": "What does 'paging' refer to in memory management?",
+    "options": [
+      "Dividing memory into fixed-size blocks",
+      "Dividing memory into variable-size blocks",
+      "Managing the hard drive space",
+      "Managing virtual memory"
+    ],
+    "answer": "Dividing memory into fixed-size blocks"
+  },
+  {
+    "question": "What is the difference between user space and kernel space?",
+    "options": [
+      "User space is where user applications run; kernel space is where the operating system runs",
+      "Kernel space is where applications run; user space is where the operating system runs",
+      "User space and kernel space are the same",
+      "None of the above"
+    ],
+    "answer": "User space is where user applications run; kernel space is where the operating system runs"
+  },
+  {
+    "question": "Which of the following operating systems supports multi-core processors?",
+    "options": [
+      "Windows 7",
+      "Windows 10",
+      "MacOS",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the main function of a router in a computer network?",
+    "options": ["To forward data packets between networks", "To connect two computers in a network", "To manage network traffic", "To store data"],
+    "answer": "To forward data packets between networks"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the internet?",
+    "options": ["HTTP", "FTP", "SMTP", "IMAP"],
+    "answer": "FTP"
+  },
+  {
+    "question": "What does the IP address stand for in networking?",
+    "options": ["Internet Protocol address", "Internal Protocol address", "Internet Protection address", "Internal Port address"],
+    "answer": "Internet Protocol address"
+  },
+  {
+    "question": "What does the abbreviation 'DNS' stand for?",
+    "options": ["Dynamic Network System", "Domain Name System", "Data Network Service", "Domain Numbering Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "Which layer in the OSI model is responsible for routing?",
+    "options": ["Physical Layer", "Network Layer", "Data Link Layer", "Transport Layer"],
+    "answer": "Network Layer"
+  },
+  {
+    "question": "Which protocol is used for sending emails?",
+    "options": ["FTP", "SMTP", "POP3", "IMAP"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "What is the maximum length of a MAC address?",
+    "options": ["16 bits", "32 bits", "48 bits", "64 bits"],
+    "answer": "48 bits"
+  },
+  {
+    "question": "Which device is used to connect different network segments in a LAN?",
+    "options": ["Router", "Hub", "Switch", "Bridge"],
+    "answer": "Switch"
+  },
+  {
+    "question": "What is the main purpose of a firewall in a computer network?",
+    "options": ["To block malicious traffic", "To forward packets", "To create IP addresses", "To route packets"],
+    "answer": "To block malicious traffic"
+  },
+  {
+    "question": "Which type of network connects multiple computers across different locations?",
+    "options": ["LAN", "WAN", "MAN", "PAN"],
+    "answer": "WAN"
+  },
+  {
+    "question": "What does a subnet mask do in an IP network?",
+    "options": ["It separates the host part of the IP address", "It divides the IP address into network and host portions", "It identifies the physical address", "It assigns dynamic IP addresses"],
+    "answer": "It divides the IP address into network and host portions"
+  },
+  {
+    "question": "What is the main function of the TCP protocol?",
+    "options": ["To provide error-free delivery of data", "To send data packets", "To assign IP addresses", "To route data packets"],
+    "answer": "To provide error-free delivery of data"
+  },
+  {
+    "question": "Which of the following is a connectionless protocol?",
+    "options": ["TCP", "UDP", "SMTP", "FTP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "What is the role of the Transport Layer in the OSI model?",
+    "options": ["Providing error detection", "Providing end-to-end communication", "Sending physical signals", "Routing data between networks"],
+    "answer": "Providing end-to-end communication"
+  },
+  {
+    "question": "Which of the following is used to assign dynamic IP addresses to devices in a network?",
+    "options": ["DNS", "DHCP", "HTTP", "FTP"],
+    "answer": "DHCP"
+  },
+  {
+    "question": "Which of the following is a private IP address range?",
+    "options": ["192.168.0.0 - 192.168.255.255", "10.0.0.0 - 10.255.255.255", "172.16.0.0 - 172.31.255.255", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following protocols is used for secure web browsing?",
+    "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What is the purpose of the ARP protocol?",
+    "options": ["To resolve IP addresses to MAC addresses", "To assign IP addresses", "To transfer files", "To route data between networks"],
+    "answer": "To resolve IP addresses to MAC addresses"
+  },
+  {
+    "question": "What is the function of the OSI model’s Physical Layer?",
+    "options": ["Data encryption", "Signal transmission", "Data routing", "Error detection"],
+    "answer": "Signal transmission"
+  },
+  {
+    "question": "Which of the following is a type of network topology?",
+    "options": ["Ring", "Star", "Mesh", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which protocol is used to convert a domain name into an IP address?",
+    "options": ["FTP", "DNS", "SMTP", "HTTP"],
+    "answer": "DNS"
+  },
+  {
+    "question": "What is a VPN?",
+    "options": ["Virtual Private Network", "Variable Protocol Network", "Virtual Packet Network", "Virtual Port Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for data encryption and compression?",
+    "options": ["Session Layer", "Presentation Layer", "Application Layer", "Transport Layer"],
+    "answer": "Presentation Layer"
+  },
+  {
+    "question": "Which of the following is an example of an IPv4 address?",
+    "options": ["192.168.0.1", "2001:0db8:85a3:0000:0000:8a2e:0370:7334", "fe80::", "All of the above"],
+    "answer": "192.168.0.1"
+  },
+  {
+    "question": "What is the main purpose of a DNS server?",
+    "options": ["To route traffic", "To resolve domain names to IP addresses", "To assign IP addresses", "To manage email traffic"],
+    "answer": "To resolve domain names to IP addresses"
+  },
+  {
+    "question": "Which of the following is a characteristic of a client-server network?",
+    "options": ["Clients provide services", "Servers provide resources to clients", "Both clients and servers have equal authority", "None of the above"],
+    "answer": "Servers provide resources to clients"
+  },
+  {
+    "question": "What does the term 'ping' refer to in networking?",
+    "options": ["A type of protocol", "A network test command to check connectivity", "A type of firewall", "A network encryption method"],
+    "answer": "A network test command to check connectivity"
+  },
+  {
+    "question": "What is the purpose of the MAC address?",
+    "options": ["To uniquely identify network devices", "To route traffic between networks", "To provide dynamic IP addresses", "To encrypt network data"],
+    "answer": "To uniquely identify network devices"
+  },
+  {
+    "question": "Which of the following is the default port for HTTP?",
+    "options": ["20", "21", "80", "443"],
+    "answer": "80"
+  },
+  {
+    "question": "What is the primary purpose of the Transport Layer in the OSI model?",
+    "options": ["To provide end-to-end communication", "To handle routing", "To physically transmit data", "To handle encryption"],
+    "answer": "To provide end-to-end communication"
+  },
+  {
+    "question": "Which of the following is a broadband connection type?",
+    "options": ["DSL", "Dial-up", "Fiber-optic", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is a VPN primarily used for?",
+    "options": ["To provide internet access", "To secure internet connections", "To enhance speed", "To block all incoming traffic"],
+    "answer": "To secure internet connections"
+  },
+  {
+    "question": "Which protocol is responsible for ensuring that data packets are correctly sequenced and delivered in order?",
+    "options": ["UDP", "TCP", "FTP", "HTTP"],
+    "answer": "TCP"
+  },
+  {
+    "question": "Which of the following is a common type of network cable used in LANs?",
+    "options": ["Coaxial cable", "Fiber-optic cable", "Twisted-pair cable", "All of the above"],
+    "answer": "Twisted-pair cable"
+  },
+  {
+    "question": "Which network layer is responsible for error detection and correction?",
+    "options": ["Physical Layer", "Data Link Layer", "Network Layer", "Transport Layer"],
+    "answer": "Data Link Layer"
+  },
+  {
+    "question": "What does the 'HTTP' in web URLs stand for?",
+    "options": ["Hyper Transfer Protocol", "Hyper Text Transfer Protocol", "Hyper Transport Protocol", "Home Transfer Protocol"],
+    "answer": "Hyper Text Transfer Protocol"
+  },
+  {
+    "question": "Which of the following is an example of a broadband internet connection?",
+    "options": ["Dial-up", "Fiber optic", "ISDN", "Satellite"],
+    "answer": "Fiber optic"
+  },
+  {
+    "question": "What is the main function of a switch in a computer network?",
+    "options": ["To connect multiple networks", "To forward data packets within a local network", "To route traffic", "To assign IP addresses"],
+    "answer": "To forward data packets within a local network"
+  },
+  {
+    "question": "Which protocol is used to manage and control network devices?",
+    "options": ["SNMP", "HTTP", "FTP", "TCP"],
+    "answer": "SNMP"
+  },
+  {
+    "question": "Which of the following is used to enable wireless communication between devices in a LAN?",
+    "options": ["Wired network", "Wi-Fi", "Ethernet", "Bluetooth"],
+    "answer": "Wi-Fi"
+  }
+]

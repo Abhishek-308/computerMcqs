@@ -1,0 +1,161 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #2b5876, #4e4376);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Main Container */
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  animation: popIn 0.8s ease-in-out;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ffdd57;
+}
+
+/* Dropdown */
+label {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  display: block;
+}
+
+#chapterSelect {
+  padding: 10px;
+  font-size: 1rem;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  outline: none;
+}
+
+/* Quiz Box */
+#quizBox {
+  margin-top: 20px;
+}
+
+#questionBox {
+  font-size: 1.3rem;
+  background-color: #333;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+/* Options List */
+#optionsList {
+  list-style: none;
+  padding: 0;
+}
+
+#optionsList li {
+  background-color: #444;
+  margin: 10px 0;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#optionsList li:hover {
+  background-color: #555;
+}
+
+/* Next Button */
+#nextBtn {
+  padding: 10px 20px;
+  background-color: #ffdd57;
+  color: #333;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+  margin-top: 20px;
+}
+
+#nextBtn:hover {
+  transform: scale(1.05);
+}
+
+.hidden {
+  display: none;
+}
+
+/* Animation */
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes popIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+#progressBox {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #ffdd57;
+}
+
+#resultBox {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  color: #fff;
+}
+
+#summaryList {
+  text-align: left;
+  margin-top: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+#timerBox {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #ffc107;
+  font-size: 1.2rem;
+}

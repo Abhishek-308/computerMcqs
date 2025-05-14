@@ -1,0 +1,232 @@
+[
+  {
+    "question": "What is the full form of CPU?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Control Process Unit", "Compute Power Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which device is used for input?",
+    "options": ["Monitor", "Printer", "Mouse", "Speaker"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Read Access Memory", "Random Access Memory", "Rapid Access Memory", "Random Address Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which of these is an output device?",
+    "options": ["Scanner", "Keyboard", "Monitor", "Mouse"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What is the main function of the ALU?",
+    "options": ["Data storage", "Performing arithmetic operations", "Control operations", "Memory management"],
+    "answer": "Performing arithmetic operations"
+  },
+  {
+    "question": "What is the full form of BIOS?",
+    "options": ["Basic Input Output System", "Basic Integrated Operating System", "Binary Input Output System", "Basic Integrated Operating Setup"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "Which of these is a type of software?",
+    "options": ["Windows", "Mouse", "Keyboard", "Monitor"],
+    "answer": "Windows"
+  },
+  {
+    "question": "What does the acronym URL stand for?",
+    "options": ["Uniform Resource Locator", "Universal Resource Locator", "Unified Resource Locator", "Universal Registration Locator"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which programming language is known as the father of all programming languages?",
+    "options": ["C", "Java", "Python", "Fortran"],
+    "answer": "Fortran"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["Hyper Text Transfer Protocol", "Hyper Terminal Transfer Protocol", "High Transfer Text Protocol", "Hyperlink Transfer Protocol"],
+    "answer": "Hyper Text Transfer Protocol"
+  },
+  {
+    "question": "What does 'www' stand for in a website address?",
+    "options": ["World Wide Web", "Wide World Web", "World Web Worldwide", "Web World Wide"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "Which one is a volatile memory?",
+    "options": ["ROM", "RAM", "CD", "Hard Disk"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Who is known as the father of the computer?",
+    "options": ["Charles Babbage", "Bill Gates", "Alan Turing", "John von Neumann"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "What is the function of a motherboard?",
+    "options": ["Control input devices", "Control output devices", "Connect different computer components", "Store data permanently"],
+    "answer": "Connect different computer components"
+  },
+  {
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["RAM", "Cache", "Hard Disk", "CPU"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "options": ["Running applications", "Managing hardware", "Managing internet connections", "Performing calculations"],
+    "answer": "Managing hardware"
+  },
+  {
+    "question": "Which of these is a high-level programming language?",
+    "options": ["Assembly", "C", "Machine language", "All of the above"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the main purpose of a compiler?",
+    "options": ["Execute code", "Translate source code into machine code", "Store data", "Display output"],
+    "answer": "Translate source code into machine code"
+  },
+  {
+    "question": "Which of the following is an example of a GUI operating system?",
+    "options": ["Linux", "Windows", "DOS", "Unix"],
+    "answer": "Windows"
+  },
+  {
+    "question": "What is a computer virus?",
+    "options": ["A hardware issue", "A type of malware", "A type of software update", "A memory bug"],
+    "answer": "A type of malware"
+  },
+  {
+    "question": "Which company developed the first personal computer?",
+    "options": ["IBM", "Apple", "Microsoft", "Intel"],
+    "answer": "IBM"
+  },
+  {
+    "question": "Which of the following is NOT a type of computer network?",
+    "options": ["LAN", "WAN", "MAN", "TAN"],
+    "answer": "TAN"
+  },
+  {
+    "question": "What is an example of non-volatile memory?",
+    "options": ["RAM", "ROM", "Cache", "Hard Drive"],
+    "answer": "ROM"
+  },
+  {
+    "question": "What is the full form of USB?",
+    "options": ["Universal Serial Bus", "Universal Service Bus", "United Serial Bus", "Unified Service Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Which of the following is not an input device?",
+    "options": ["Mouse", "Keyboard", "Printer", "Scanner"],
+    "answer": "Printer"
+  },
+  {
+    "question": "What does DNS stand for?",
+    "options": ["Data Name System", "Domain Name System", "Dynamic Network Service", "Direct Network Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["Word", "Windows", "Excel", "Google Chrome"],
+    "answer": "Windows"
+  },
+  {
+    "question": "What does 'IP' stand for?",
+    "options": ["Internet Protocol", "Internal Protocol", "Interface Protocol", "International Protocol"],
+    "answer": "Internet Protocol"
+  },
+  {
+    "question": "What does the 'bit' in a computer refer to?",
+    "options": ["Binary digit", "Base integer", "Binary unit", "Bitten"],
+    "answer": "Binary digit"
+  },
+  {
+    "question": "What is the full form of 'WWW'?",
+    "options": ["World Wide Web", "World Web Worldwide", "Wide Web World", "Web World Wide"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "Which of the following is a storage device?",
+    "options": ["RAM", "ROM", "CD", "CPU"],
+    "answer": "CD"
+  },
+  {
+    "question": "What is the primary language used to create websites?",
+    "options": ["HTML", "Java", "Python", "SQL"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Which type of memory is used in a computer’s cache?",
+    "options": ["Primary memory", "Secondary memory", "Tertiary memory", "Dynamic memory"],
+    "answer": "Primary memory"
+  },
+  {
+    "question": "What does an operating system do?",
+    "options": ["Controls the computer's hardware", "Manages the system’s software", "Allows user interaction with the computer", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is a type of application software?",
+    "options": ["Microsoft Word", "Operating System", "BIOS", "Device Drivers"],
+    "answer": "Microsoft Word"
+  },
+  {
+    "question": "What is the full form of PDF?",
+    "options": ["Portable Document Format", "Program Document Format", "Public Document File", "Public Display Format"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "Which of the following is the smallest unit of storage?",
+    "options": ["Byte", "Bit", "Kilobyte", "Megabyte"],
+    "answer": "Bit"
+  },
+  {
+    "question": "What is the purpose of an IP address?",
+    "options": ["Identify a computer network", "Identify a computer device on a network", "Store files on a network", "Create a virtual private network"],
+    "answer": "Identify a computer device on a network"
+  },
+  {
+    "question": "What is the function of a router?",
+    "options": ["Provide internet access", "Transmit data between networks", "Store data", "Generate IP addresses"],
+    "answer": "Transmit data between networks"
+  },
+  {
+    "question": "What does the acronym VPN stand for?",
+    "options": ["Virtual Private Network", "Virtual Protocol Network", "Variable Private Network", "Visual Private Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": ["Google", "Facebook", "Twitter", "Instagram"],
+    "answer": "Google"
+  },
+  {
+    "question": "What is the main function of the control unit of a computer?",
+    "options": ["Perform calculations", "Control data flow", "Store data", "Manage input and output devices"],
+    "answer": "Control data flow"
+  },
+  {
+    "question": "Which of these is a type of database management system?",
+    "options": ["MySQL", "Word", "Windows", "Excel"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "Which type of device is a microphone?",
+    "options": ["Input", "Output", "Storage", "Processing"],
+    "answer": "Input"
+  },
+  {
+    "question": "Which of the following is an operating system developed by Microsoft?",
+    "options": ["Mac OS", "Windows", "Linux", "Android"],
+    "answer": "Windows"
+  },
+  {
+    "question": "What does a firewall do?",
+    "options": ["Prevent unauthorized access to a network", "Speed up internet connection", "Store files", "Control network traffic"],
+    "answer": "Prevent unauthorized access to a network"
+  }
+]

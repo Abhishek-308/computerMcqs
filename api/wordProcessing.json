@@ -1,0 +1,217 @@
+[
+  {
+    "question": "What is the default file extension for Microsoft Word documents?",
+    "options": [".txt", ".doc", ".docx", ".pdf"],
+    "answer": ".docx"
+  },
+  {
+    "question": "Which of these is a word processor?",
+    "options": ["Notepad", "Microsoft Word", "Google Sheets", "Paint"],
+    "answer": "Microsoft Word"
+  },
+  {
+    "question": "Which key is used to start a new paragraph in Microsoft Word?",
+    "options": ["Enter", "Shift", "Tab", "Space"],
+    "answer": "Enter"
+  },
+  {
+    "question": "Which of the following is the default font style in Microsoft Word?",
+    "options": ["Arial", "Calibri", "Times New Roman", "Verdana"],
+    "answer": "Calibri"
+  },
+  {
+    "question": "How do you underline text in Microsoft Word?",
+    "options": ["Ctrl+U", "Ctrl+I", "Ctrl+B", "Ctrl+T"],
+    "answer": "Ctrl+U"
+  },
+  {
+    "question": "Which tab in Microsoft Word allows you to change the font size?",
+    "options": ["Home", "Insert", "Page Layout", "Review"],
+    "answer": "Home"
+  },
+  {
+    "question": "What is the shortcut key to copy text in Microsoft Word?",
+    "options": ["Ctrl+C", "Ctrl+X", "Ctrl+V", "Ctrl+Z"],
+    "answer": "Ctrl+C"
+  },
+  {
+    "question": "Which tool is used to check the spelling in Microsoft Word?",
+    "options": ["Spell Check", "Grammar Check", "Thesaurus", "Find and Replace"],
+    "answer": "Spell Check"
+  },
+  {
+    "question": "What does the 'Track Changes' feature in Microsoft Word allow you to do?",
+    "options": ["Edit text", "Review document changes", "Print documents", "Format text"],
+    "answer": "Review document changes"
+  },
+  {
+    "question": "How do you insert a page break in Microsoft Word?",
+    "options": ["Ctrl+Enter", "Ctrl+P", "Ctrl+N", "Ctrl+S"],
+    "answer": "Ctrl+Enter"
+  },
+  {
+    "question": "Which of the following is NOT a paragraph alignment option in Microsoft Word?",
+    "options": ["Left", "Right", "Center", "Reverse"],
+    "answer": "Reverse"
+  },
+  {
+    "question": "Which feature allows you to format multiple paragraphs in the same style in Word?",
+    "options": ["Text Styles", "Paragraph Styles", "Themes", "AutoFormat"],
+    "answer": "Paragraph Styles"
+  },
+  {
+    "question": "Which Microsoft Word feature automatically corrects common typing mistakes?",
+    "options": ["AutoCorrect", "Spell Check", "Grammar Check", "Find and Replace"],
+    "answer": "AutoCorrect"
+  },
+  {
+    "question": "What is the maximum number of columns you can insert in Microsoft Word?",
+    "options": ["3", "5", "10", "63"],
+    "answer": "63"
+  },
+  {
+    "question": "What does the 'Find and Replace' tool do in Microsoft Word?",
+    "options": ["Search for a word and replace it", "Format text", "Check grammar", "Count words"],
+    "answer": "Search for a word and replace it"
+  },
+  {
+    "question": "Which of the following is used to add a table to a Word document?",
+    "options": ["Insert", "Home", "View", "Design"],
+    "answer": "Insert"
+  },
+  {
+    "question": "How do you insert an image into a Word document?",
+    "options": ["Insert -> Picture", "Home -> Image", "Insert -> Media", "Design -> Photo"],
+    "answer": "Insert -> Picture"
+  },
+  {
+    "question": "What is the default line spacing in Microsoft Word?",
+    "options": ["1.5", "1", "2", "1.15"],
+    "answer": "1.15"
+  },
+  {
+    "question": "How do you apply bold formatting in Word?",
+    "options": ["Ctrl+B", "Ctrl+U", "Ctrl+I", "Ctrl+T"],
+    "answer": "Ctrl+B"
+  },
+  {
+    "question": "Which tab would you use to insert a header or footer in Microsoft Word?",
+    "options": ["Insert", "Design", "Page Layout", "View"],
+    "answer": "Insert"
+  },
+  {
+    "question": "How do you save a document in Microsoft Word?",
+    "options": ["Ctrl+S", "Ctrl+P", "Ctrl+N", "Ctrl+O"],
+    "answer": "Ctrl+S"
+  },
+  {
+    "question": "Which file format is NOT a valid option for saving a Microsoft Word document?",
+    "options": [".docx", ".txt", ".doc", ".exe"],
+    "answer": ".exe"
+  },
+  {
+    "question": "How can you quickly move to the end of a Word document?",
+    "options": ["Ctrl+End", "Ctrl+Home", "Alt+End", "Alt+Home"],
+    "answer": "Ctrl+End"
+  },
+  {
+    "question": "Which feature in Word allows you to automatically number paragraphs?",
+    "options": ["Bullets", "Numbering", "Align", "Tabs"],
+    "answer": "Numbering"
+  },
+  {
+    "question": "Which of the following can be added to a Word document through the 'Insert' tab?",
+    "options": ["Shapes", "Charts", "Text Boxes", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which key is used to undo an action in Word?",
+    "options": ["Ctrl+Z", "Ctrl+X", "Ctrl+V", "Ctrl+Y"],
+    "answer": "Ctrl+Z"
+  },
+  {
+    "question": "What is the purpose of the 'Thesaurus' tool in Microsoft Word?",
+    "options": ["Find synonyms and antonyms", "Find and replace words", "Check grammar", "Spell check"],
+    "answer": "Find synonyms and antonyms"
+  },
+  {
+    "question": "Which of these can you NOT do using the 'Review' tab in Word?",
+    "options": ["Track changes", "Add comments", "Insert pictures", "Check spelling"],
+    "answer": "Insert pictures"
+  },
+  {
+    "question": "How do you change the font color in Word?",
+    "options": ["Home -> Font Color", "Insert -> Text Color", "Design -> Color", "View -> Font Settings"],
+    "answer": "Home -> Font Color"
+  },
+  {
+    "question": "What is the purpose of a 'Text Box' in Microsoft Word?",
+    "options": ["Create a box for text", "Format paragraphs", "Check grammar", "Insert a table"],
+    "answer": "Create a box for text"
+  },
+  {
+    "question": "Which of the following can you add to a document using the 'Insert' tab?",
+    "options": ["Table", "Header", "Footnote", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which option is used to align text to both the left and right margins in Word?",
+    "options": ["Left Align", "Center", "Right Align", "Justify"],
+    "answer": "Justify"
+  },
+  {
+    "question": "What does the 'Page Layout' tab control in Word?",
+    "options": ["Margins", "Orientation", "Size", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a valid shortcut to select all text in a Word document?",
+    "options": ["Ctrl+A", "Ctrl+S", "Ctrl+P", "Ctrl+X"],
+    "answer": "Ctrl+A"
+  },
+  {
+    "question": "What is the purpose of the 'Insert Page Number' feature?",
+    "options": ["Add page numbers to the document", "Insert a page break", "Change the font size", "Change the margins"],
+    "answer": "Add page numbers to the document"
+  },
+  {
+    "question": "What is the function of 'Find and Replace' in Microsoft Word?",
+    "options": ["Search for a word and replace it", "Change font style", "Insert a page break", "Count words"],
+    "answer": "Search for a word and replace it"
+  },
+  {
+    "question": "How do you insert a hyperlink in Word?",
+    "options": ["Insert -> Hyperlink", "Home -> Link", "Insert -> Object", "Design -> Link"],
+    "answer": "Insert -> Hyperlink"
+  },
+  {
+    "question": "What is the function of the 'Margins' in Microsoft Word?",
+    "options": ["Control the space between text and document edges", "Control line spacing", "Change font size", "Insert page breaks"],
+    "answer": "Control the space between text and document edges"
+  },
+  {
+    "question": "How do you change the orientation of a page in Word?",
+    "options": ["Page Layout -> Orientation", "Insert -> Page Orientation", "Design -> Orientation", "View -> Page Layout"],
+    "answer": "Page Layout -> Orientation"
+  },
+  {
+    "question": "What is the function of 'Borders and Shading' in Word?",
+    "options": ["To add borders to paragraphs and pages", "To add a watermark", "To change the font color", "To insert tables"],
+    "answer": "To add borders to paragraphs and pages"
+  },
+  {
+    "question": "How do you insert a table of contents in Word?",
+    "options": ["References -> Table of Contents", "Insert -> Table", "View -> Table of Contents", "Design -> Content"],
+    "answer": "References -> Table of Contents"
+  },
+  {
+    "question": "What is the purpose of the 'Format Painter' tool in Microsoft Word?",
+    "options": ["Copy formatting from one section of text to another", "Bold text", "Italicize text", "Underline text"],
+    "answer": "Copy formatting from one section of text to another"
+  },
+  {
+    "question": "Which of these is NOT a font style in Microsoft Word?",
+    "options": ["Arial", "Calibri", "Times New Roman", "Excel"],
+    "answer": "Excel"
+  }
+]

@@ -1,0 +1,462 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyper Text Markup Link",
+            "Home Tool Markup Language",
+            "Hyper Transfer Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which tag is used to define a hyperlink in HTML?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<hyperlink>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting an image?",
+        "options": [
+            "<image>",
+            "<img>",
+            "<picture>",
+            "<src>"
+        ],
+        "answer": "<img>"
+    },
+    {
+        "question": "Which HTML element is used to specify a block of text that is highlighted?",
+        "options": [
+            "<highlight>",
+            "<strong>",
+            "<mark>",
+            "<bold>"
+        ],
+        "answer": "<mark>"
+    },
+    {
+        "question": "Which tag is used to define a table in HTML?",
+        "options": [
+            "<table>",
+            "<tab>",
+            "<td>",
+            "<tr>"
+        ],
+        "answer": "<table>"
+    },
+    {
+        "question": "What is the purpose of the <meta> tag in HTML?",
+        "options": [
+            "To provide metadata for the document",
+            "To display the title of the page",
+            "To link external stylesheets",
+            "To define sections in the webpage"
+        ],
+        "answer": "To provide metadata for the document"
+    },
+    {
+        "question": "Which attribute is used to define the source of an image?",
+        "options": [
+            "src",
+            "alt",
+            "href",
+            "path"
+        ],
+        "answer": "src"
+    },
+    {
+        "question": "What does the <form> tag do in HTML?",
+        "options": [
+            "Defines a form for user input",
+            "Defines a section of the document",
+            "Defines a hyperlink",
+            "Defines a table row"
+        ],
+        "answer": "Defines a form for user input"
+    },
+    {
+        "question": "Which HTML tag is used to create a list of items?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "How do you make a numbered list in HTML?",
+        "options": [
+            "<ol>",
+            "<ul>",
+            "<list>",
+            "<number>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "Which tag is used to create a table row in HTML?",
+        "options": [
+            "<tr>",
+            "<td>",
+            "<th>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "question": "Which HTML element is used for the largest heading?",
+        "options": [
+            "<h1>",
+            "<h2>",
+            "<h3>",
+            "<h6>"
+        ],
+        "answer": "<h1>"
+    },
+    {
+        "question": "What does the <iframe> tag do in HTML?",
+        "options": [
+            "Embeds another HTML document",
+            "Defines an image",
+            "Defines a link",
+            "Defines a form"
+        ],
+        "answer": "Embeds another HTML document"
+    },
+    {
+        "question": "Which HTML element is used to create a dropdown list?",
+        "options": [
+            "<select>",
+            "<option>",
+            "<dropdown>",
+            "<list>"
+        ],
+        "answer": "<select>"
+    },
+    {
+        "question": "Which tag is used to add a comment in HTML?",
+        "options": [
+            "<!-- comment -->",
+            "<!-- -->",
+            "<comment>",
+            "<//comment>"
+        ],
+        "answer": "<!-- comment -->"
+    },
+    {
+        "question": "What does the <footer> tag define in HTML?",
+        "options": [
+            "Defines the footer of a document",
+            "Defines a section of the page",
+            "Defines an image",
+            "Defines a header"
+        ],
+        "answer": "Defines the footer of a document"
+    },
+    {
+        "question": "Which HTML tag is used to define bold text?",
+        "options": [
+            "<bold>",
+            "<strong>",
+            "<b>",
+            "<em>"
+        ],
+        "answer": "<b>"
+    },
+    {
+        "question": "What does the <link> tag do in HTML?",
+        "options": [
+            "Links external resources to the page",
+            "Defines a hyperlink",
+            "Defines the title of the document",
+            "Defines a section of the page"
+        ],
+        "answer": "Links external resources to the page"
+    },
+    {
+        "question": "How do you include a CSS file in an HTML document?",
+        "options": [
+            "<style src='style.css'>",
+            "<link href='style.css'>",
+            "<css src='style.css'>",
+            "<style src='style.css'>"
+        ],
+        "answer": "<link href='style.css'>"
+    },
+    {
+        "question": "Which tag is used to display a table cell in HTML?",
+        "options": [
+            "<td>",
+            "<tr>",
+            "<th>",
+            "<cell>"
+        ],
+        "answer": "<td>"
+    },
+    {
+        "question": "Which social media platform is known for professional networking?",
+        "options": [
+            "Facebook",
+            "Instagram",
+            "LinkedIn",
+            "Twitter"
+        ],
+        "answer": "LinkedIn"
+    },
+    {
+        "question": "Which platform is primarily used for sharing short videos?",
+        "options": [
+            "Facebook",
+            "TikTok",
+            "Twitter",
+            "Instagram"
+        ],
+        "answer": "TikTok"
+    },
+    {
+        "question": "What is the character limit for a tweet on Twitter?",
+        "options": [
+            "140",
+            "280",
+            "300",
+            "500"
+        ],
+        "answer": "280"
+    },
+    {
+        "question": "Which social media platform is known for its photo and video sharing features?",
+        "options": [
+            "Facebook",
+            "Instagram",
+            "Snapchat",
+            "Twitter"
+        ],
+        "answer": "Instagram"
+    },
+    {
+        "question": "Which social media platform allows users to create and join groups of interest?",
+        "options": [
+            "Facebook",
+            "Reddit",
+            "Pinterest",
+            "Instagram"
+        ],
+        "answer": "Facebook"
+    },
+    {
+        "question": "What is the purpose of a 'Hashtag' on platforms like Twitter and Instagram?",
+        "options": [
+            "To categorize content",
+            "To add color",
+            "To share photos",
+            "To send messages"
+        ],
+        "answer": "To categorize content"
+    },
+    {
+        "question": "Which social media platform uses 'stories' as a feature?",
+        "options": [
+            "Facebook",
+            "Instagram",
+            "WhatsApp",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which social media platform is known for its short-form, live video streaming?",
+        "options": [
+            "Twitch",
+            "YouTube",
+            "Vimeo",
+            "Facebook"
+        ],
+        "answer": "Twitch"
+    },
+    {
+        "question": "What is the primary purpose of LinkedIn?",
+        "options": [
+            "Job networking",
+            "Sharing memes",
+            "Photo sharing",
+            "Dating"
+        ],
+        "answer": "Job networking"
+    },
+    {
+        "question": "Which platform is best known for its 24-hour disappearing content?",
+        "options": [
+            "Instagram",
+            "Snapchat",
+            "Facebook",
+            "TikTok"
+        ],
+        "answer": "Snapchat"
+    },
+    {
+        "question": "What is the main focus of Pinterest?",
+        "options": [
+            "Professional networking",
+            "Pinning ideas",
+            "Live streaming",
+            "Posting news"
+        ],
+        "answer": "Pinning ideas"
+    },
+    {
+        "question": "Which social media platform is known for its 'Like' and 'Share' features?",
+        "options": [
+            "Facebook",
+            "Twitter",
+            "Instagram",
+            "LinkedIn"
+        ],
+        "answer": "Facebook"
+    },
+    {
+        "question": "Which platform allows users to post and view short video clips, often with music?",
+        "options": [
+            "Vine",
+            "TikTok",
+            "Instagram",
+            "Facebook"
+        ],
+        "answer": "TikTok"
+    },
+    {
+        "question": "Which social media platform allows users to share blogs and articles?",
+        "options": [
+            "Medium",
+            "Facebook",
+            "Instagram",
+            "Twitter"
+        ],
+        "answer": "Medium"
+    },
+    {
+        "question": "What feature does Instagram offer to post photos and videos that disappear after 24 hours?",
+        "options": [
+            "Reels",
+            "Stories",
+            "Feed",
+            "Posts"
+        ],
+        "answer": "Stories"
+    },
+    {
+        "question": "Which social media platform is designed for professional networking and job searching?",
+        "options": [
+            "LinkedIn",
+            "Twitter",
+            "Facebook",
+            "Instagram"
+        ],
+        "answer": "LinkedIn"
+    },
+    {
+        "question": "What is the main objective of good governance?",
+        "options": [
+            "Efficient use of resources",
+            "Transparency and accountability",
+            "Promotion of corruption",
+            "Limiting citizen participation"
+        ],
+        "answer": "Transparency and accountability"
+    },
+    {
+        "question": "Which of the following is a key principle of good governance?",
+        "options": [
+            "Participation",
+            "Exclusivity",
+            "Secrecy",
+            "Nepotism"
+        ],
+        "answer": "Participation"
+    },
+    {
+        "question": "What is the role of transparency in governance?",
+        "options": [
+            "To hide governmental activities",
+            "To provide clear and accessible information",
+            "To avoid accountability",
+            "To limit public participation"
+        ],
+        "answer": "To provide clear and accessible information"
+    },
+    {
+        "question": "Which of the following promotes accountability in governance?",
+        "options": [
+            "Freedom of expression",
+            "Corruption",
+            "State secrecy",
+            "All of the above"
+        ],
+        "answer": "Freedom of expression"
+    },
+    {
+        "question": "Which of the following is a form of citizen participation in governance?",
+        "options": [
+            "Voting",
+            "Protests",
+            "Public consultations",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does 'Rule of Law' mean in good governance?",
+        "options": [
+            "Law is applied equally to all",
+            "Only the government is bound by law",
+            "Only citizens are governed by law",
+            "Law applies to politicians only"
+        ],
+        "answer": "Law is applied equally to all"
+    },
+    {
+        "question": "Which of the following helps in reducing corruption in governance?",
+        "options": [
+            "Transparency",
+            "Secrecy",
+            "Nepotism",
+            "Favoritism"
+        ],
+        "answer": "Transparency"
+    },
+    {
+        "question": "What is the importance of accountability in governance?",
+        "options": [
+            "It ensures that officials are responsible for their actions",
+            "It promotes corruption",
+            "It hinders economic development",
+            "It decreases participation"
+        ],
+        "answer": "It ensures that officials are responsible for their actions"
+    },
+    {
+        "question": "Which is a key feature of democracy in good governance?",
+        "options": [
+            "Freedom of speech",
+            "Limited citizen participation",
+            "One-party rule",
+            "Government secrecy"
+        ],
+        "answer": "Freedom of speech"
+    },
+    {
+        "question": "Which of the following can strengthen good governance?",
+        "options": [
+            "Inclusive decision-making",
+            "Corruption",
+            "Lack of accountability",
+            "Inefficiency"
+        ],
+        "answer": "Inclusive decision-making"
+    }
+]
