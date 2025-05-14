@@ -27,12 +27,16 @@ body {
   width: 100%;
   text-align: center;
   animation: popIn 0.8s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
   font-size: 2.5rem;
   margin-bottom: 20px;
   color: #ffdd57;
+  text-align: center;
 }
 
 /* Dropdown */
@@ -50,6 +54,12 @@ label {
   border-radius: 10px;
   margin-bottom: 20px;
   outline: none;
+  background-color: #444;
+  color: #fff;
+}
+
+#chapterSelect:focus {
+  background-color: #555;
 }
 
 /* Quiz Box */
@@ -63,6 +73,7 @@ label {
   padding: 20px;
   border-radius: 12px;
   margin-bottom: 20px;
+  min-height: 100px;
 }
 
 /* Options List */
@@ -95,6 +106,7 @@ label {
   cursor: pointer;
   transition: transform 0.2s;
   margin-top: 20px;
+  width: 100%;
 }
 
 #nextBtn:hover {
